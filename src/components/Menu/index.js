@@ -45,7 +45,7 @@ export default function Menu({ translateY }) {
           <NavText>Configurações do app</NavText>
         </NavItem>
       </Nav>
-      
+
       <SignOutButton onPress={() => {}}>
         <SignOutButtonText>SAIR DO APP</SignOutButtonText>
       </SignOutButton>
